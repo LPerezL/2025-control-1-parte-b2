@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>es.upm.grise.profundizacion.cruisecontrol</groupId>
-  <artifactId>proyecto-maven</artifactId>
+  <artifactId>2025-control-1-parte-b2</artifactId>
   <version>1</version>
 
-  <name>proyecto-maven</name>
+  <name>2025-control-1-parte-b2</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
