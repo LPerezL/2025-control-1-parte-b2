@@ -1,8 +1,4 @@
-package es.upm.grise.profundizacion.cruiseControl;
-
-import es.upm.grise.profundizacion.exceptions.IncorrectSpeedSetException;
-import es.upm.grise.profundizacion.exceptions.SpeedSetAboveSpeedLimitException;
-
+package es.upm.grise.profundizacion.cruisecontrol;
 public class CruiseControl {
 	
 	@SuppressWarnings("unused")
@@ -19,6 +15,9 @@ public class CruiseControl {
 		this.speedSet = null;
 		this.speedLimit = null;
 	}
+
+    public CruiseControl() {
+    }
 	
 	/*
 	 * Method to test
